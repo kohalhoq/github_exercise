@@ -19,3 +19,5 @@ print(bool(number))
 val1 = 6
 val2 = 3
 print(val1 < val2)
+
+print (" GoodBye ")
